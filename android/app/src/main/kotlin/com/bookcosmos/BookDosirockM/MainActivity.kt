@@ -1,4 +1,4 @@
-package com.example.bookdosirock
+package com.bookcosmos.BookDosirockM
 
 import io.flutter.embedding.android.FlutterActivity
 
